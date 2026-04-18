@@ -1,0 +1,457 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "c_free_tag_1_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "c_free_tag_1_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "c_free_tag_1_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "c_free_tag_1_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "c_free_tag_1_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "c_free_tag_2_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "c_free_tag_2_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "c_free_tag_2_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "c_free_tag_2_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "c_free_tag_2_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "c_full",
+					"strict" : false
+				},
+				{
+					"name" : "c_read_val_1",
+					"strict" : false
+				},
+				{
+					"name" : "c_read_val_2",
+					"strict" : false
+				},
+				{
+					"name" : "c_read_busy_1",
+					"strict" : false
+				},
+				{
+					"name" : "c_read_busy_2",
+					"strict" : false
+				},
+				{
+					"name" : "c_read_valid_1",
+					"strict" : false
+				},
+				{
+					"name" : "c_read_valid_2",
+					"strict" : false
+				},
+				{
+					"name" : "z_free_tag_1_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "z_free_tag_1_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "z_free_tag_1_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "z_free_tag_1_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "z_free_tag_1_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "z_free_tag_2_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "z_free_tag_2_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "z_free_tag_2_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "z_free_tag_2_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "z_free_tag_2_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "z_full",
+					"strict" : false
+				},
+				{
+					"name" : "z_read_val_1",
+					"strict" : false
+				},
+				{
+					"name" : "z_read_val_2",
+					"strict" : false
+				},
+				{
+					"name" : "z_read_busy_1",
+					"strict" : false
+				},
+				{
+					"name" : "z_read_busy_2",
+					"strict" : false
+				},
+				{
+					"name" : "z_read_valid_1",
+					"strict" : false
+				},
+				{
+					"name" : "z_read_valid_2",
+					"strict" : false
+				},
+				{
+					"name" : "c_write_val_1",
+					"strict" : false
+				},
+				{
+					"name" : "c_write_tag_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "c_read_tag_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "c_write_1_valid",
+					"strict" : false
+				},
+				{
+					"name" : "c_write_tag_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "c_read_tag_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "c_write_tag_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "c_read_tag_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "c_write_tag_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "c_read_tag_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "c_write_tag_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "c_read_tag_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "c_write_val_2",
+					"strict" : false
+				},
+				{
+					"name" : "c_write_tag_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "c_write_2_valid",
+					"strict" : false
+				},
+				{
+					"name" : "c_write_tag_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "c_write_tag_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "c_write_tag_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "c_write_tag_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "c_read_tag_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "c_read_tag_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "c_read_tag_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "c_read_tag_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "c_read_tag_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "z_write_val_1",
+					"strict" : false
+				},
+				{
+					"name" : "z_write_tag_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "z_read_tag_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "z_write_1_valid",
+					"strict" : false
+				},
+				{
+					"name" : "z_write_tag_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "z_read_tag_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "z_write_tag_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "z_read_tag_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "z_write_tag_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "z_read_tag_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "z_write_tag_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "z_read_tag_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "z_write_val_2",
+					"strict" : false
+				},
+				{
+					"name" : "z_write_tag_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "z_write_2_valid",
+					"strict" : false
+				},
+				{
+					"name" : "z_write_tag_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "z_write_tag_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "z_write_tag_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "z_write_tag_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "z_read_tag_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "z_read_tag_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "z_read_tag_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "z_read_tag_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "z_read_tag_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "c_release_tag_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "c_release_tag_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "c_release_tag_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "c_release_tag_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "c_release_tag_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "c_release_1_valid",
+					"strict" : false
+				},
+				{
+					"name" : "c_release_tag_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "c_release_tag_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "c_release_tag_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "c_release_tag_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "c_release_tag_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "c_release_2_valid",
+					"strict" : false
+				},
+				{
+					"name" : "c_fill_free_1",
+					"strict" : false
+				},
+				{
+					"name" : "c_fill_free_2",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "z_release_tag_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "z_release_tag_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "z_release_tag_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "z_release_tag_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "z_release_tag_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "z_release_1_valid",
+					"strict" : false
+				},
+				{
+					"name" : "z_release_tag_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "z_release_tag_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "z_release_tag_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "z_release_tag_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "z_release_tag_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "z_release_2_valid",
+					"strict" : false
+				},
+				{
+					"name" : "z_fill_free_1",
+					"strict" : false
+				},
+				{
+					"name" : "z_fill_free_2",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
