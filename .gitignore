@@ -1,5 +1,6 @@
 incremental_db/
 output_files/
+db/
 *.flock
 *.rdr
 *.log
